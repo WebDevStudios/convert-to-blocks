@@ -1,6 +1,9 @@
 # Convert to Blocks
 
 > Transforms classic editor content to blocks on-the-fly.
+> Forked from https://github.com/10up/convert-to-blocks
+
+[![WebDevStudios. Your Success is Our Mission.](https://webdevstudios.com/wp-content/uploads/2018/04/wds-github-banner.png)](https://webdevstudios.com/contact/)
 
 [![Support Level](https://img.shields.io/badge/support-stable-blue.svg)](#support-level) [![Build Status](https://travis-ci.org/10up/convert-to-blocks.svg?branch=develop)](https://travis-ci.org/10up/convert-to-blocks) [![Release Version](https://img.shields.io/github/release/10up/convert-to-blocks.svg)](https://github.com/10up/convert-to-blocks/releases/latest) ![WordPress tested up to version](https://img.shields.io/wordpress/plugin/tested/convert-to-blocks?label=WordPress) [![GPLv2 License](https://img.shields.io/github/license/10up/convert-to-blocks.svg)](https://github.com/10up/convert-to-blocks/blob/develop/LICENSE.md)
 
@@ -39,21 +42,3 @@ By default it will not.
 ### Will Convert to Blocks Handle Nested Blocks?
 
 Nested / Inner Block support does not work with Gutenberg bundled with WordPress Core <=5.7.2. This feature needs the Gutenberg Plugin >=10.9.0.
-
-## Support Level
-
-**Stable:** 10up is not planning to develop any new features for this, but will still respond to bug reports and security concerns. We welcome PRs, but any that include new features should be small and easy to integrate and should not include breaking changes. We otherwise intend to keep this tested up to the most recent version of WordPress.
-
-## Changelog
-
-A complete listing of all notable changes to Convert to Blocks are documented in [CHANGELOG.md](https://github.com/10up/convert-to-blocks/blob/develop/CHANGELOG.md).
-
-## Contributing
-
-Please read [CODE_OF_CONDUCT.md](https://github.com/10up/convert-to-blocks/blob/develop/CODE_OF_CONDUCT.md) for details on our code of conduct, [CONTRIBUTING.md](https://github.com/10up/convert-to-blocks/blob/develop/CONTRIBUTING.md) for details on the process for submitting pull requests to us, and [CREDITS.md](https://github.com/10up/convert-to-blocks/blob/develop/CREDITS.md) for a listing of maintainers of, contributors to, and libraries used by Convert to Blocks.
-
-## Like what you see?
-
-<p align="center">
-<a href="http://10up.com/contact/"><img src="https://10up.com/uploads/2016/10/10up-Github-Banner.png" width="850"></a>
-</p>
